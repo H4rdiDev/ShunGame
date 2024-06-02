@@ -30,7 +30,7 @@ Passionate developer with a love for creating innovative solutions and learning 
 
 ## Thank To
 
-- BochilTeam
+- [BochilTeam](https://github.com/BochilTeam)
 
 ## Lisensi
 
