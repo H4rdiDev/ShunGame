@@ -1,0 +1,502 @@
+[
+  {
+    "soal": "Simbol dari Aktinium adalah?",
+    "jawaban": "Ac"
+  },
+  {
+    "soal": "Simbol dari Aluminium adalah?",
+    "jawaban": "Al"
+  },
+  {
+    "soal": "Simbol dari Antimon adalah?",
+    "jawaban": "Sb"
+  },
+  {
+    "soal": "Simbol dari Perak adalah?",
+    "jawaban": "Ag"
+  },
+  {
+    "soal": "Simbol dari Argon adalah?",
+    "jawaban": "Ar"
+  },
+  {
+    "soal": "Simbol dari Arsenik adalah?",
+    "jawaban": "As"
+  },
+  {
+    "soal": "Simbol dari Astatin adalah?",
+    "jawaban": "At"
+  },
+  {
+    "soal": "Simbol dari Emas adalah?",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Simbol dari Barium adalah?",
+    "jawaban": "Ba"
+  },
+  {
+    "soal": "Simbol dari Belerang adalah?",
+    "jawaban": "S"
+  },
+  {
+    "soal": "Simbol dari Berkelium adalah?",
+    "jawaban": "Bk"
+  },
+  {
+    "soal": "Simbol dari Berilium adalah?",
+    "jawaban": "Be"
+  },
+  {
+    "soal": "Simbol dari Besi adalah?",
+    "jawaban": "Fe"
+  },
+  {
+    "soal": "Simbol dari Bismut adalah?",
+    "jawaban": "Bi"
+  },
+  {
+    "soal": "Simbol dari Bohrium adalah?",
+    "jawaban": "Bh"
+  },
+  {
+    "soal": "Simbol dari Boron adalah?",
+    "jawaban": "B"
+  },
+  {
+    "soal": "Simbol dari Brom adalah?",
+    "jawaban": "Br"
+  },
+  {
+    "soal": "Simbol dari Tembaga adalah?",
+    "jawaban": "Cu"
+  },
+  {
+    "soal": "Simbol dari Darmstadtium adalah?",
+    "jawaban": "Ds"
+  },
+  {
+    "soal": "Simbol dari Dubnium adalah?",
+    "jawaban": "Db"
+  },
+  {
+    "soal": "Simbol dari Disprosium adalah?",
+    "jawaban": "Dy"
+  },
+  {
+    "soal": "Simbol dari Einsteinium adalah?",
+    "jawaban": "Es"
+  },
+  {
+    "soal": "Simbol dari Emas adalah?",
+    "jawaban": "Au"
+  },
+  {
+    "soal": "Simbol dari Erbium adalah?",
+    "jawaban": "Er"
+  },
+  {
+    "soal": "Simbol dari Europium adalah?",
+    "jawaban": "Eu"
+  },
+  {
+    "soal": "Simbol dari Fermium adalah?",
+    "jawaban": "Fm"
+  },
+  {
+    "soal": "Simbol dari Besi adalah?",
+    "jawaban": "Fe"
+  },
+  {
+    "soal": "Simbol dari Flerovium adalah?",
+    "jawaban": "Fl"
+  },
+  {
+    "soal": "Simbol dari Fluor adalah?",
+    "jawaban": "F"
+  },
+  {
+    "soal": "Simbol dari Fosfor adalah?",
+    "jawaban": "P"
+  },
+  {
+    "soal": "Simbol dari Fransium adalah?",
+    "jawaban": "Fr"
+  },
+  {
+    "soal": "Simbol dari Gadolinium adalah?",
+    "jawaban": "Gd"
+  },
+  {
+    "soal": "Simbol dari Galium adalah?",
+    "jawaban": "Ga"
+  },
+  {
+    "soal": "Simbol dari Germanium adalah?",
+    "jawaban": "Ge"
+  },
+  {
+    "soal": "Simbol dari Hafnium adalah?",
+    "jawaban": "Hf"
+  },
+  {
+    "soal": "Simbol dari Hassium adalah?",
+    "jawaban": "Hs"
+  },
+  {
+    "soal": "Simbol dari Helium adalah?",
+    "jawaban": "He"
+  },
+  {
+    "soal": "Simbol dari Hidrogen adalah?",
+    "jawaban": "H"
+  },
+  {
+    "soal": "Simbol dari Holmium adalah?",
+    "jawaban": "Ho"
+  },
+  {
+    "soal": "Simbol dari Raksa adalah?",
+    "jawaban": "Hg"
+  },
+  {
+    "soal": "Simbol dari Indium adalah?",
+    "jawaban": "In"
+  },
+  {
+    "soal": "Simbol dari Yodium adalah?",
+    "jawaban": "I"
+  },
+  {
+    "soal": "Simbol dari Iridium adalah?",
+    "jawaban": "Ir"
+  },
+  {
+    "soal": "Simbol dari Iterbium adalah?",
+    "jawaban": "Yb"
+  },
+  {
+    "soal": "Simbol dari Itrium adalah?",
+    "jawaban": "Y"
+  },
+  {
+    "soal": "Simbol dari Kadmium adalah?",
+    "jawaban": "Cd"
+  },
+  {
+    "soal": "Simbol dari Kalium adalah?",
+    "jawaban": "K"
+  },
+  {
+    "soal": "Simbol dari Kalsium adalah?",
+    "jawaban": "Ca"
+  },
+  {
+    "soal": "Simbol dari Kalifornium adalah?",
+    "jawaban": "Cf"
+  },
+  {
+    "soal": "Simbol dari Karbon adalah?",
+    "jawaban": "C"
+  },
+  {
+    "soal": "Simbol dari Klor adalah?",
+    "jawaban": "Cl"
+  },
+  {
+    "soal": "Simbol dari Krom adalah?",
+    "jawaban": "Cr"
+  },
+  {
+    "soal": "Simbol dari Kobalt adalah?",
+    "jawaban": "Co"
+  },
+  {
+    "soal": "Simbol dari Kopernisium adalah?",
+    "jawaban": "Cn"
+  },
+  {
+    "soal": "Simbol dari Kurium adalah?",
+    "jawaban": "Cm"
+  },
+  {
+    "soal": "Simbol dari Kripton adalah?",
+    "jawaban": "Kr"
+  },
+  {
+    "soal": "Simbol dari Lantanum adalah?",
+    "jawaban": "La"
+  },
+  {
+    "soal": "Simbol dari Lawrensium adalah?",
+    "jawaban": "Lr"
+  },
+  {
+    "soal": "Simbol dari Litium adalah?",
+    "jawaban": "Li"
+  },
+  {
+    "soal": "Simbol dari Livermorium adalah?",
+    "jawaban": "Lv"
+  },
+  {
+    "soal": "Simbol dari Lutetium adalah?",
+    "jawaban": "Lu"
+  },
+  {
+    "soal": "Simbol dari Magnesium adalah?",
+    "jawaban": "Mg"
+  },
+  {
+    "soal": "Simbol dari Mangan adalah?",
+    "jawaban": "Mn"
+  },
+  {
+    "soal": "Simbol dari Meitnerium adalah?",
+    "jawaban": "Mt"
+  },
+  {
+    "soal": "Simbol dari Mendelevium adalah?",
+    "jawaban": "Md"
+  },
+  {
+    "soal": "Simbol dari Molibden adalah?",
+    "jawaban": "Mo"
+  },
+  {
+    "soal": "Simbol dari Natrium adalah?",
+    "jawaban": "Na"
+  },
+  {
+    "soal": "Simbol dari Neodimium adalah?",
+    "jawaban": "Nd"
+  },
+  {
+    "soal": "Simbol dari Neon adalah?",
+    "jawaban": "Ne"
+  },
+  {
+    "soal": "Simbol dari Neptunium adalah?",
+    "jawaban": "Np"
+  },
+  {
+    "soal": "Simbol dari Nikel adalah?",
+    "jawaban": "Ni"
+  },
+  {
+    "soal": "Simbol dari Niobium adalah?",
+    "jawaban": "Nb"
+  },
+  {
+    "soal": "Simbol dari Nitrogen adalah?",
+    "jawaban": "N"
+  },
+  {
+    "soal": "Simbol dari Nobelium adalah?",
+    "jawaban": "No"
+  },
+  {
+    "soal": "Simbol dari Osmium adalah?",
+    "jawaban": "Os"
+  },
+  {
+    "soal": "Simbol dari Oksigen adalah?",
+    "jawaban": "O"
+  },
+  {
+    "soal": "Simbol dari Paladium adalah?",
+    "jawaban": "Pd"
+  },
+  {
+    "soal": "Simbol dari Perak adalah?",
+    "jawaban": "Ag"
+  },
+  {
+    "soal": "Simbol dari Timbal adalah?",
+    "jawaban": "Pb"
+  },
+  {
+    "soal": "Simbol dari Kalium adalah?",
+    "jawaban": "K"
+  },
+  {
+    "soal": "Simbol dari Natrium adalah?",
+    "jawaban": "Na"
+  },
+  {
+    "soal": "Simbol dari Platina adalah?",
+    "jawaban": "Pt"
+  },
+  {
+    "soal": "Simbol dari Plutonium adalah?",
+    "jawaban": "Pu"
+  },
+  {
+    "soal": "Simbol dari Polonium adalah?",
+    "jawaban": "Po"
+  },
+  {
+    "soal": "Simbol dari Praseodimium adalah?",
+    "jawaban": "Pr"
+  },
+  {
+    "soal": "Simbol dari Prometium adalah?",
+    "jawaban": "Pm"
+  },
+  {
+    "soal": "Simbol dari Protaktinium adalah?",
+    "jawaban": "Pa"
+  },
+  {
+    "soal": "Simbol dari Radium adalah?",
+    "jawaban": "Ra"
+  },
+  {
+    "soal": "Simbol dari Radon adalah?",
+    "jawaban": "Rn"
+  },
+  {
+    "soal": "Simbol dari Renium adalah?",
+    "jawaban": "Re"
+  },
+  {
+    "soal": "Simbol dari Rodium adalah?",
+    "jawaban": "Rh"
+  },
+  {
+    "soal": "Simbol dari Roentgenium adalah?",
+    "jawaban": "Rg"
+  },
+  {
+    "soal": "Simbol dari Rubidium adalah?",
+    "jawaban": "Rb"
+  },
+  {
+    "soal": "Simbol dari Rutenium adalah?",
+    "jawaban": "Ru"
+  },
+  {
+    "soal": "Simbol dari Rutherfordium adalah?",
+    "jawaban": "Rf"
+  },
+  {
+    "soal": "Simbol dari Samarium adalah?",
+    "jawaban": "Sm"
+  },
+  {
+    "soal": "Simbol dari Skandium adalah?",
+    "jawaban": "Sc"
+  },
+  {
+    "soal": "Simbol dari Seaborgium adalah?",
+    "jawaban": "Sg"
+  },
+  {
+    "soal": "Simbol dari Selenium adalah?",
+    "jawaban": "Se"
+  },
+  {
+    "soal": "Simbol dari Serium adalah?",
+    "jawaban": "Ce"
+  },
+  {
+    "soal": "Simbol dari Sesium adalah?",
+    "jawaban": "Cs"
+  },
+  {
+    "soal": "Simbol dari Silikon adalah?",
+    "jawaban": "Si"
+  },
+  {
+    "soal": "Simbol dari Seng adalah?",
+    "jawaban": "Zn"
+  },
+  {
+    "soal": "Simbol dari Timah adalah?",
+    "jawaban": "Sn"
+  },
+  {
+    "soal": "Simbol dari Antimon adalah?",
+    "jawaban": "Sb"
+  },
+  {
+    "soal": "Simbol dari Strontium adalah?",
+    "jawaban": "Sr"
+  },
+  {
+    "soal": "Simbol dari Talium adalah?",
+    "jawaban": "Tl"
+  },
+  {
+    "soal": "Simbol dari Tantalum adalah?",
+    "jawaban": "Ta"
+  },
+  {
+    "soal": "Simbol dari Teknetium adalah?",
+    "jawaban": "Tc"
+  },
+  {
+    "soal": "Simbol dari Telurium adalah?",
+    "jawaban": "Te"
+  },
+  {
+    "soal": "Simbol dari Tembaga adalah?",
+    "jawaban": "Cu"
+  },
+  {
+    "soal": "Simbol dari Terbium adalah?",
+    "jawaban": "Tb"
+  },
+  {
+    "soal": "Simbol dari Timah adalah?",
+    "jawaban": "Sn"
+  },
+  {
+    "soal": "Simbol dari Timbal adalah?",
+    "jawaban": "Pb"
+  },
+  {
+    "soal": "Simbol dari Titanium adalah?",
+    "jawaban": "Ti"
+  },
+  {
+    "soal": "Simbol dari Torium adalah?",
+    "jawaban": "Th"
+  },
+  {
+    "soal": "Simbol dari Tulium adalah?",
+    "jawaban": "Tm"
+  },
+  {
+    "soal": "Simbol dari Wolfram adalah?",
+    "jawaban": "W"
+  },
+  {
+    "soal": "Simbol dari Oganeson adalah?",
+    "jawaban": "Og"
+  },
+  {
+    "soal": "Simbol dari Moscovium adalah?",
+    "jawaban": "Mc"
+  },
+  {
+    "soal": "Simbol dari Nihonium adalah?",
+    "jawaban": "Nh"
+  },
+  {
+    "soal": "Simbol dari Uranium adalah?",
+    "jawaban": "U"
+  },
+  {
+    "soal": "Simbol dari Vanadium adalah?",
+    "jawaban": "V"
+  },
+  {
+    "soal": "Simbol dari Xenon adalah?",
+    "jawaban": "Xe"
+  },
+  {
+    "soal": "Simbol dari Zirkonium adalah?",
+    "jawaban": "Zr"
+  }
+]
