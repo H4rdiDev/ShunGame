@@ -28,7 +28,7 @@ Passionate developer with a love for creating innovative solutions and learning 
 | Siapakah Aku    | Game tebak karakter sederhana | [Here](https://raw.githubusercontent.com/H4rdiDev/ShunGame/main/games/siapakahaku.json) |
 | Susun Kata      | Game susun kata sederhana | [Here](https://raw.githubusercontent.com/H4rdiDev/ShunGame/main/games/susunkata.json) |
 
-## Thank To
+## Thanks To
 
 - [BochilTeam](https://github.com/BochilTeam)
 
